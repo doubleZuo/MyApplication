@@ -7,7 +7,7 @@ import java.io.PrintWriter;
  * Created by zhy on 15/5/3.
  */
 public class GenerateValueFiles {
-
+    public static final String A = "A";
     private int baseW;
     private int baseH;
 
